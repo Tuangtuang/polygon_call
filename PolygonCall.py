@@ -139,7 +139,6 @@ class PolygonCall:
     # This main function repeatedly calls the polygon api every 1 seconds for 24 hours
     # and stores the results.
     def call(self):
-        print("?")
         # The api key given by the professor
         key = "JINOK3dmG_iko6hkXlgKXIAqoLtDVofg"
 
