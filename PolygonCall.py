@@ -140,7 +140,7 @@ class PolygonCall:
     # and stores the results.
     def call(self):
         # The api key given by the professor
-        key = "JINOK3dmG_iko6hkXlgKXIAqoLtDVofg"
+        key = "beBybSi8daPgsTp5yx5cHtHpYcrjp5Jq"
 
         # Number of list iterations - each one should last about 1 second
         count = 0
